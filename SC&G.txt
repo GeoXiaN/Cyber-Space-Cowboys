@@ -1,0 +1,40 @@
+Outline
+ACT ONE BEGINS
+1-The main player wakes up in a room with a voice saying, “Get up, you need to try again!”.
+2-The First Cowboy is introduced (Nice Guy/ Jerk) he says, “Get up, we’re going to try to start up the 31st sector again. 
+3-You go to a control room where 2nd (Mean/kind) and 3rd (Shy/gay) Cowboys are. They are introduced. Player also meets friendly A.I.
+(4)-First (Possible) Ending: The player will be asked to enter a code that will start up the 31st sector
+(5)-A 5 symbol sequence of words and numbers will flash on the screen for 3 seconds and then the player will have to retype the code. Failing leads to blaring red lights and a sudden shaking. The player gets a second attempt, if this one is failed, the ship blows up and game is restarted.
+-(go back to 3) 4- The player is asked to input a code and options will pop up and depending on the Player’s choices it will determine which one will ask the player to go to breakfast with them. (possible choice of rejection here)
+5-Player and Cowboy (any) go to eat breakfast. 
+6- The player goes back to work, and a minigame comes up. Time is skipped to lunch. Based on how the minigame was played, another Cowboy will ask for the player to join them for lunch.
+7- The Captain of the ship throws a small party to celebrate the re-opening of sector 31. Final interactions with Cowboys before days end. 
+8- New day. 
+9-The captain of the ship tells you that the cowboys have started on their own new projects to help improve the ship and that you are qualified to help any of them (player must pick one of the three cowboys)
+OPTION: You have to pick one of the three cowboys to work with
+10-you have the option to eat with one of two cowboys (depends on which the player ate breakfast with the day prior and who the player worked with)
+Total opportunities: 5
+11-spend rest of day with cowboy chosen to work with
+Possible 12-The cowboy brings up possible issues
+(prompt) “Do you stay and help”
+(answers yes and no come up but when hovered over answer always changes to no)
+(must click no)
+12-day ends, and you go to bed. As player falls asleep voice is heard saying, “so far so good”
+POSSIBILITY (1)
+13-The cowboy player chose to work with wakes you suddenly and says there is a small hiccup with the project
+14-player asks what’s wrong, but cowboy doesn’t answer, player follows
+15-player arrives at a control room to see the entire system malfunctioning 
+16- player enters minigame 
+(if done correctly everything is fixed)
+(if done incorrectly the cowboy dies gruesomely) 
+POSSIBILITY (2)
+13-player is woken up by the sound of an alert from A.I, (name; TBD) 
+14- Player rushes over to control room to see cowboy has shot himself and the entire system is malfunctioning
+15-minigame is played (will fail no matter what)  (ominous theme)
+16-player breaks down and guilt themed monologue begins
+Regardless of which possibility is used
+17- screen turns black 
+18-player dialogue comes up saying “DAMMIT!! I HAVE TO SAVE THEM!! EVEN IF IT MEANS DYING A MILLION TIMES!! PUT ME BACK IN NOW!!”
+19- A.I. responds, “if you think it’ll help….. then fine. Go right ahead”
+ACT ONE ENDS
+
