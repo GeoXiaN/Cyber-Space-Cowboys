@@ -298,3 +298,12 @@ Total time until interface ready: 1.27800011635s
 - 0.421000 seconds to render 5 frames.
 - Frame drawn at 0.457667 seconds.
 - 0.337000 seconds to render 5 frames.
+- Frame drawn at 0.473667 seconds.
+- 0.291000 seconds to render 5 frames.
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
