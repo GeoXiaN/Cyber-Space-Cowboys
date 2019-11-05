@@ -1,43 +1,44 @@
-Mon Nov 04 17:00:30 2019
+Mon Nov 04 18:14:45 2019
 Windows-8-6.2.9200
 Ren'Py 7.3.3.568
  
 
-Bootstrap to the start of init.init took 0.17s
-Early init took 0.01s
-Loader init took 0.05s
-Loading error handling took 0.05s
-Loading script took 0.13s
+Bootstrap to the start of init.init took 0.06s
+Early init took 0.00s
+Loader init took 0.02s
+Loading error handling took 0.02s
+Loading script took 0.15s
 Loading save slot metadata. took 0.01s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.13s
+Running init code took 0.07s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
-Dump and make backups. took 0.06s
+Backing up script files to 'C:\\Users\\Geolo\\AppData\\Roaming/RenPy/backups\\Game Folder':
+Dump and make backups. took 0.10s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc. took 0.01s
 DPI scale factor: 1.250000
-Creating interface object took 0.10s
+Creating interface object took 0.05s
 Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.01s
-Load screen analysis took 0.03s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.09s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.07s
+Prepare screens took 0.06s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.07s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.03s
+Interface start took 0.02s
 
 primary display bounds: (0, 0, 1920, 1080)
 swap interval: 1 frames
 Windowed mode.
-Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Screen sizes: virtual=(1920, 1080) physical=(1738, 978) drawable=(1738, 978)
 Vendor: 'Intel'
 Renderer: 'Intel(R) HD Graphics 630'
 Version: '4.5.0 - Build 25.20.100.6373'
@@ -285,28 +286,15 @@ Texture testing:
 - 2048px textures work.
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 2.82399988174s
+Total time until interface ready: 1.27800011635s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
 - Frame drawn at 0.017667 seconds.
-- Frame drawn at 0.106667 seconds.
-- Frame drawn at 0.109667 seconds.
-- Frame drawn at 0.334667 seconds.
-- 0.334667 seconds to render 5 frames.
-- Frame drawn at 0.443667 seconds.
-- 0.426000 seconds to render 5 frames.
-- Frame drawn at 0.460667 seconds.
-- 0.354000 seconds to render 5 frames.
-- Frame drawn at 0.477667 seconds.
-- 0.368000 seconds to render 5 frames.
-- Frame drawn at 0.495667 seconds.
-- 0.161000 seconds to render 5 frames.
-The window was minimized.
-The window was restored.
-
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
-Root FBO is: 0
-FBO Maximum Texture Size: 2048
+- Frame drawn at 0.120667 seconds.
+- Frame drawn at 0.182667 seconds.
+- Frame drawn at 0.335667 seconds.
+- 0.335667 seconds to render 5 frames.
+- Frame drawn at 0.438667 seconds.
+- 0.421000 seconds to render 5 frames.
+- Frame drawn at 0.457667 seconds.
+- 0.337000 seconds to render 5 frames.
