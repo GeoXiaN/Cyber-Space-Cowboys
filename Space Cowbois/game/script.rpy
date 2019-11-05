@@ -3,7 +3,8 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define C1 = Character("Cowboy #1")
+define C2 = Character("Cowboy #2")
 
 
 # The game starts here.
@@ -24,9 +25,11 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    C1 "Greetings!"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    C1 "This is initial set up."
+
+    C2 "Yeah, it's kinnda bad but better then nothing, I guess."
 
     # This ends the game.
 
